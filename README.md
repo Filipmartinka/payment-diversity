@@ -1,6 +1,6 @@
 # payment-diversity
 
-Payment Diversity is a overarching concept and guiding philosophy that stipulates the following:
+Payment Diversity (also referred to as Payments Diversity) is an overarching concept and guiding philosophy that stipulates the following:
 
 * All individuals have different values and beliefs.
 * Money and the transactions of value are intrinsically linked with these beliefs and preferred styles of living.
